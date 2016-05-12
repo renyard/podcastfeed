@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <atom:link href="http://feeds.soundcloud.com/users/soundcloud:users:1603389/sounds.rss" rel="self" type="application/rss+xml"/>
+    <atom:link href="http://feeds.soundcloud.com/users/soundcloud:users:1603389/sounds.rss?before=263075056" rel="next" type="application/rss+xml"/>
+    <title>Soirée Podcast</title>
+    <link>http://soundcloud.com/renyard</link>
+    <pubDate>Tue, 10 May 2016 19:48:19 +0000</pubDate>
+    <lastBuildDate>Tue, 10 May 2016 19:48:19 +0000</lastBuildDate>
+    <ttl>60</ttl>
+    <language>en</language>
+    <copyright>All rights reserved</copyright>
+    <webMaster>feeds@soundcloud.com (SoundCloud Feeds)</webMaster>
+    <description>UK based DJ &amp; Producer playing an eclectic mix of underground Bass Music, House &amp; Techno.</description>
+    <itunes:subtitle>UK based DJ &amp; Producer playing an eclectic mix of…</itunes:subtitle>
+    <itunes:owner>
+      <itunes:name>Ian Renyard</itunes:name>
+      <itunes:email>feeds@soundcloud.com</itunes:email>
+    </itunes:owner>
+    <itunes:author>Ian Renyard</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="http://i1.sndcdn.com/avatars-000223756405-00v1f3-original.jpg"/>
+    <image>
+      <url>http://i1.sndcdn.com/avatars-000223756405-00v1f3-original.jpg</url>
+      <title>Ian Renyard</title>
+      <link>http://soundcloud.com/renyard</link>
+    </image>
+    <itunes:category text="Music"/>
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/263075056</guid>
+      <title>May 2016</title>
+      <pubDate>Sun, 08 May 2016 15:18:01 +0000</pubDate>
+      <link>https://soundcloud.com/renyard/may-2016</link>
+      <itunes:duration>00:39:21</itunes:duration>
+      <itunes:author>Ian Renyard</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>May 2016 by Ian Renyard</itunes:summary>
+      <itunes:subtitle>May 2016 by Ian Renyard</itunes:subtitle>
+      <description>May 2016 by Ian Renyard</description>
+      <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/263075056-renyard-may-2016.mp3" length="94446416"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000161871361-4luq0z-original.jpg"/>
+    </item>
+  </channel>
+</rss>
